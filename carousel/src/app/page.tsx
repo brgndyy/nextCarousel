@@ -1,7 +1,9 @@
-export default function Home() {
+import Images from "components/ChordImages/Images";
+
+export default async function Home() {
   return (
     <>
-      <h1>캐러셀 만들기</h1>
+      <Images />;
     </>
   );
 }

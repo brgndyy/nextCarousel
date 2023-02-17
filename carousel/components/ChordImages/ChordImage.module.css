@@ -1,0 +1,13 @@
+.chordImageItem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.chordNameContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

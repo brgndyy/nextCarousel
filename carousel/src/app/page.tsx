@@ -1,9 +1,9 @@
-import Images from "components/ChordImages/Images";
+import ChordList from "components/ChordImages/ChordList";
 
 export default async function Home() {
   return (
     <>
-      <Images />;
+      <ChordList />;
     </>
   );
 }
